@@ -5,7 +5,6 @@ import image from "../assets/pi.png";
 
 
 
-
 const Employee = ({navigation}) => {
  
  const[mydata,setData]=  useState([]);
