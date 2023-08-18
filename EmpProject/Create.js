@@ -4,7 +4,6 @@ import { TextInput,Button } from 'react-native-paper';
 import { launchCamera,launchImageLibrary} from 'react-native-image-picker';
 
 const Create =({navigation,route})=>{
-
   const editFunc=(type)=>{
     if(route.params){
       switch (type) {
