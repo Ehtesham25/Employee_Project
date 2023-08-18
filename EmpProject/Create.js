@@ -3,7 +3,6 @@ import {View,Modal, StyleSheet,Alert,KeyboardAvoidingView} from "react-native";
 import { TextInput,Button } from 'react-native-paper';
 import { launchCamera,launchImageLibrary} from 'react-native-image-picker';
 
-
 const Create =({navigation,route})=>{
 
 
