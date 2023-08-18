@@ -4,7 +4,6 @@ import { Card,FAB } from 'react-native-paper';
 import image from "../assets/pi.png";
 
 
-
 const Employee = ({navigation}) => {
  
  const[mydata,setData]=  useState([]);
