@@ -1,6 +1,6 @@
 import React from "react";
 import LinearGradient from "react-native-linear-gradient";
-import {Title,Card,Button} from "react-native-paper"
+import {Title,Card,Button} from "react-native-paper";
 import image from "../assets/pi.png";
 import {View, Text,StyleSheet,Image, Platform, Linking, Alert,} from "react-native"
 import Icon  from "react-native-vector-icons/MaterialCommunityIcons";
