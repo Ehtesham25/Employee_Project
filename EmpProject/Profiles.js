@@ -9,7 +9,6 @@ import Email from "react-native-vector-icons/MaterialCommunityIcons";
 import Phone from "react-native-vector-icons/AntDesign";
 import Salary from "react-native-vector-icons/MaterialIcons";
 
-
 const Profiles =({navigation,route})=>{
   
     const{_id,name,position,city,email,salary,contact,picture}= route.params.item;
