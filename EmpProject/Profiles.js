@@ -3,7 +3,7 @@ import LinearGradient from "react-native-linear-gradient";
 import {Title,Card,Button} from "react-native-paper";
 
 import image from "../assets/pi.png";
-import {View, Text,StyleSheet,Image, Platform, Linking, Alert,} from "react-native"
+import {View, Text,StyleSheet,Image, Platform, Linking, Alert,} from "react-native";
 import Icon  from "react-native-vector-icons/MaterialCommunityIcons";
 import Email from "react-native-vector-icons/MaterialCommunityIcons";
 import Phone from "react-native-vector-icons/AntDesign";
